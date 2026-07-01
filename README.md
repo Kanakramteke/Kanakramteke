@@ -38,7 +38,7 @@
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Technologies I Work With
 ### 🌐 Web Development
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
